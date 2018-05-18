@@ -19,5 +19,6 @@ Data Structures:
 
 Algorithms:
 - Sort algorithms
+  -  Bubble Sort
 
 
