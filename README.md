@@ -20,7 +20,7 @@ Data Structures:
 Algorithms:
 - Sort algorithms
   -  **[Bubble Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/BubbleSort)**
-  -  **[Selection Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/BubbleSelection)**
+  -  **[Selection Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/SelectionSort)**
   - Insertion Sort
 
 
