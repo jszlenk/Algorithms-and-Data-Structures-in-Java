@@ -19,8 +19,9 @@ Notacja dużego O – notacja przedstawiająca asymptotyczne tempo wzrostu, wyko
 - **[Złożoność obliczeniowa](http://th-www.if.uj.edu.pl/~erichter/dydaktyka/Dydaktyka2010/TPI-2010/TPI-wyklad-3a-2010.pdf)**
 - **[Złożoność obliczeniowa algorytmów ](http://th-www.if.uj.edu.pl/~erichter/dydaktyka/Dydaktyka2013/TPI-2013/TPI-wyklad-3-2013-newTempl.pdf)**
 
-#### Opis działania algorytmów
+#### Opis algorytmów
 
 - [Sortowanie bąbelkowe](https://pl.wikipedia.org/wiki/Sortowanie_b%C4%85belkowe)
 - [Sortowanie przez wybieranie](https://pl.wikipedia.org/wiki/Sortowanie_przez_wybieranie)
 - [Sortowanie przez wstawianie](https://pl.wikipedia.org/wiki/Sortowanie_przez_wstawianie)
+- [Sortowanie Shella](https://pl.wikipedia.org/wiki/Sortowanie_Shella)
