@@ -11,8 +11,6 @@ Do opisu asymptotycznego tempa wzrostu stosuje się notację dużego O.
 
 Notacja dużego O – notacja przedstawiająca asymptotyczne tempo wzrostu, wykorzystywana do zapisywania złożoności obliczeniowej algorytmu. Za pomocą tej notacji zapisywany jest rząd wielkości funkcji wyrażającej liczbę operacji dominujących (w przypadku złożoności czasowej) lub rozmiar wymaganej pamięci (w przypadku złożoności pamięciowej) w zależności od liczby danych wejściowych.
 
-
-
 - **[Notacja dużego O](http://algorytmy.ency.pl/artykul/notacja_duzego_o)**
 - **[Rzędy wielkości funkcji](http://www.algorytm.org/kurs-algorytmiki/rzedy-wielkosci-funkcji.html)**
 - **[Asymptotyczne tempo wzrostu](https://pl.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation)**
@@ -20,3 +18,9 @@ Notacja dużego O – notacja przedstawiająca asymptotyczne tempo wzrostu, wyko
 - **[Podstawy złożoności obliczeniowej](http://www.samouczekprogramisty.pl/podstawy-zlozonosci-obliczeniowej/)**
 - **[Złożoność obliczeniowa](http://th-www.if.uj.edu.pl/~erichter/dydaktyka/Dydaktyka2010/TPI-2010/TPI-wyklad-3a-2010.pdf)**
 - **[Złożoność obliczeniowa algorytmów ](http://th-www.if.uj.edu.pl/~erichter/dydaktyka/Dydaktyka2013/TPI-2013/TPI-wyklad-3-2013-newTempl.pdf)**
+
+#### Opis działania algorytmów
+
+- [Sortowanie bąbelkowe](https://pl.wikipedia.org/wiki/Sortowanie_b%C4%85belkowe)
+- [Sortowanie przez wybieranie](https://pl.wikipedia.org/wiki/Sortowanie_przez_wybieranie)
+- [Sortowanie przez wstawianie](https://pl.wikipedia.org/wiki/Sortowanie_przez_wstawianie)

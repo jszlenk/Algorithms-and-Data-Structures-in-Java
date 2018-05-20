@@ -21,7 +21,7 @@ Algorithms:
 - Sort algorithms
   -  **[Bubble Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/BubbleSort)**
   -  **[Selection Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/SelectionSort)**
-  - Insertion Sort
+  -  **[Insertion Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/InsertionSort)**
   - Shell Sort
   - Merge Sort
   - Quick Sort
@@ -29,7 +29,7 @@ Algorithms:
   - Radix Sort
   - Sorting Arrays Using the JDK
   
-  
+- Search Algorithms
 - Recursion  
 
 
