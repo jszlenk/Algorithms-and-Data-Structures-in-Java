@@ -2,7 +2,6 @@
 
 ![Algorithms](https://img.shields.io/badge/Algorithms--And--Data--Structures-Programming--in--Java-green.svg?longCache=true&style=for-the-badge)
 
-
 Zrozumienie mocnych i słabych stron różnych struktur danych pozwala wybrać najlepszą strukturę danych dla danych i aplikacji, dzięki czemu aplikacje będą działać wydajnie podczas operacji na dużych zbiorach danych.
 
 Asymptotyczne tempo wzrostu jest miarą określającą zachowanie wartości funkcji wraz ze wzrostem jej argumentów. Stosowane jest szczególnie często w teorii obliczeń, w celu opisu złożoności obliczeniowej, czyli zależności ilości potrzebnych zasobów (np. czasu lub pamięci) od rozmiaru danych wejściowych algorytmu. Asymptotyczne tempo wzrostu opisuje jak szybko dana funkcja rośnie lub maleje, abstrahując od konkretnej postaci tych zmian.
@@ -19,13 +18,16 @@ Notacja dużego O – notacja przedstawiająca asymptotyczne tempo wzrostu, wyko
 - **[Złożoność obliczeniowa](http://th-www.if.uj.edu.pl/~erichter/dydaktyka/Dydaktyka2010/TPI-2010/TPI-wyklad-3a-2010.pdf)**
 - **[Złożoność obliczeniowa algorytmów ](http://th-www.if.uj.edu.pl/~erichter/dydaktyka/Dydaktyka2013/TPI-2013/TPI-wyklad-3-2013-newTempl.pdf)**
 
+###### Super strona poświęcona algorytmom i strukturom danych: [algorytm.org](http://www.algorytm.org/)
+
+
 #### Opis algorytmów
 
 - [Sortowanie bąbelkowe](https://pl.wikipedia.org/wiki/Sortowanie_b%C4%85belkowe)
 - [Sortowanie przez wybieranie](https://pl.wikipedia.org/wiki/Sortowanie_przez_wybieranie)
 - [Sortowanie przez wstawianie](https://pl.wikipedia.org/wiki/Sortowanie_przez_wstawianie)
-- [Sortowanie Shella](https://pl.wikipedia.org/wiki/Sortowanie_Shella)
-- [Sortowanie Shella](https://pl.wikipedia.org/wiki/Sortowanie_Shella)
-- [Sortowanie Shella](https://pl.wikipedia.org/wiki/Sortowanie_Shella)
-- [Sortowanie Shella](https://pl.wikipedia.org/wiki/Sortowanie_Shella)
-- [Sortowanie Shella](https://pl.wikipedia.org/wiki/Sortowanie_Shella)
+- [Sortowanie shella](https://pl.wikipedia.org/wiki/Sortowanie_Shella)
+- [Sortowanie przez scalanie]()
+- [Sortowanie szybkie]()
+- [Sortowanie ]()
+- [Sortowanie ]()
