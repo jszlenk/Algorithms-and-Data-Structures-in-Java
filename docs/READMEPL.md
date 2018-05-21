@@ -31,3 +31,7 @@ Notacja dużego O – notacja przedstawiająca asymptotyczne tempo wzrostu, wyko
 - [Sortowanie szybkie]()
 - [Sortowanie ]()
 - [Sortowanie ]()
+
+---
+
+- [Rekurencja](https://pl.wikipedia.org/wiki/Rekurencja)
