@@ -22,7 +22,7 @@ Algorithms:
   -  **[Bubble Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/BubbleSort)**
   -  **[Selection Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/SelectionSort)**
   -  **[Insertion Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/InsertionSort)**
-  - Shell Sort
+  -  **[Shell Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/ShellSort)**
   - Merge Sort
   - Quick Sort
   - Counting Sort

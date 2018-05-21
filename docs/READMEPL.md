@@ -25,3 +25,7 @@ Notacja dużego O – notacja przedstawiająca asymptotyczne tempo wzrostu, wyko
 - [Sortowanie przez wybieranie](https://pl.wikipedia.org/wiki/Sortowanie_przez_wybieranie)
 - [Sortowanie przez wstawianie](https://pl.wikipedia.org/wiki/Sortowanie_przez_wstawianie)
 - [Sortowanie Shella](https://pl.wikipedia.org/wiki/Sortowanie_Shella)
+- [Sortowanie Shella](https://pl.wikipedia.org/wiki/Sortowanie_Shella)
+- [Sortowanie Shella](https://pl.wikipedia.org/wiki/Sortowanie_Shella)
+- [Sortowanie Shella](https://pl.wikipedia.org/wiki/Sortowanie_Shella)
+- [Sortowanie Shella](https://pl.wikipedia.org/wiki/Sortowanie_Shella)
