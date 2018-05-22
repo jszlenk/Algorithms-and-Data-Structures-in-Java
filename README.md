@@ -28,8 +28,13 @@ Algorithms:
   - Counting Sort
   - Radix Sort
   - Sorting Arrays Using the JDK
+
+---
+
+- Recursion  
+
+---
   
 - Search Algorithms
-- Recursion  
 
 
