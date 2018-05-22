@@ -32,7 +32,7 @@ Algorithms:
 ---
 
 - Recursion
-  -  **[Shell Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/ShellSort)**
+  -  **[Factorial](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/Recursion/src/Factorial)**
 
 ---
   
