@@ -1,4 +1,4 @@
-package Recursion;
+package Factorial;
 
 class RecursiveFactorial {
     static int recursiveFactorial(int num) {

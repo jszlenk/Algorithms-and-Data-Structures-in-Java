@@ -1,4 +1,4 @@
-package Recursion;
+package Factorial;
 
 class IterativeFactorial {
     static int iterativeFactorial(int num) {

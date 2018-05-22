@@ -1,7 +1,7 @@
-package Recursion;
+package Factorial;
 
-import static Recursion.IterativeFactorial.iterativeFactorial;
-import static Recursion.RecursiveFactorial.recursiveFactorial;
+import static Factorial.IterativeFactorial.iterativeFactorial;
+import static Factorial.RecursiveFactorial.recursiveFactorial;
 
 public class Main {
     public static void main(String[] args) {
