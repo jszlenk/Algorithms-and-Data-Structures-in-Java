@@ -23,15 +23,21 @@ Notacja dużego O – notacja przedstawiająca asymptotyczne tempo wzrostu, wyko
 
 #### Opis algorytmów
 
+Sort algorithms
 - [Sortowanie bąbelkowe](https://pl.wikipedia.org/wiki/Sortowanie_b%C4%85belkowe)
 - [Sortowanie przez wybieranie](https://pl.wikipedia.org/wiki/Sortowanie_przez_wybieranie)
 - [Sortowanie przez wstawianie](https://pl.wikipedia.org/wiki/Sortowanie_przez_wstawianie)
 - [Sortowanie shella](https://pl.wikipedia.org/wiki/Sortowanie_Shella)
-- [Sortowanie przez scalanie]()
+- [Sortowanie przez scalanie](https://pl.wikipedia.org/wiki/Sortowanie_przez_scalanie)
 - [Sortowanie szybkie]()
 - [Sortowanie ]()
 - [Sortowanie ]()
 
 ---
 
+Recursion
 - [Rekurencja](https://pl.wikipedia.org/wiki/Rekurencja)
+
+---
+
+Search algorithms
