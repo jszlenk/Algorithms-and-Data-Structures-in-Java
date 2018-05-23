@@ -1,34 +1,34 @@
 package MergeSort;
 
 class MergeSort {
-    static void mergeSort(int[] input, int start, int end) {
+    static void mergeSort(int[] array, int start, int end) {
 
         if (end - start < 2) {
             return;
         }
 
         int mid = (start + end) / 2;
-        mergeSort(input, start, mid);
-        mergeSort(input, mid, end);
-        merge(input, start, mid, end);
+        mergeSort(array, start, mid);
+        mergeSort(array, mid, end);
+        merge(array, start, mid, end);
     }
 
-    private static void merge(int[] input, int start, int mid, int end) {
+    private static void merge(int[] array, int start, int mid, int end) {
 
-        if (input[mid - 1] <= input[mid]) {
+        if (array[mid - 1] <= array[mid]) {
             return;
         }
 
-        int i = start;
+        int index = start;
         int j = mid;
         int tempIndex = 0;
 
         int[] temp = new int[end - start];
-        while (i < mid && j < end) {
-            temp[tempIndex++] = input[i] <= input[j] ? input[i++] : input[j++];
+        while (index < mid && j < end) {
+            temp[tempIndex++] = array[index] <= array[j] ? array[index++] : array[j++];
         }
 
-        System.arraycopy(input, i, input, start + tempIndex, mid - i);
-        System.arraycopy(temp, 0, input, start, tempIndex);
+        System.arraycopy(array, index, array, start + tempIndex, mid - index);
+        System.arraycopy(temp, 0, array, start, tempIndex);
     }
 }
