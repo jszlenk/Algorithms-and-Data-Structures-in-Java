@@ -30,8 +30,9 @@ Sort algorithms
 - [Sortowanie shella](https://pl.wikipedia.org/wiki/Sortowanie_Shella)
 - [Sortowanie przez scalanie](https://pl.wikipedia.org/wiki/Sortowanie_przez_scalanie)
 - [Sortowanie szybkie]()
-- [Sortowanie ]()
-- [Sortowanie ]()
+- [Sortowanie przez zliczanie]()
+- [Sortowanie pozycyjne]()
+- [Sortowanie przy użyciu JDK](https://docs.oracle.com/javase/10/docs/api/java/util/Arrays.html)
 
 ---
 
