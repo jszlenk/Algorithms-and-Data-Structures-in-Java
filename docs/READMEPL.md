@@ -29,7 +29,7 @@ Sort algorithms
 - [Sortowanie przez wstawianie](https://pl.wikipedia.org/wiki/Sortowanie_przez_wstawianie)
 - [Sortowanie shella](https://pl.wikipedia.org/wiki/Sortowanie_Shella)
 - [Sortowanie przez scalanie](https://pl.wikipedia.org/wiki/Sortowanie_przez_scalanie)
-- [Sortowanie szybkie]()
+- [Sortowanie szybkie](https://pl.wikipedia.org/wiki/Sortowanie_szybkie)
 - [Sortowanie przez zliczanie]()
 - [Sortowanie pozycyjne]()
 - [Sortowanie przy użyciu JDK](https://docs.oracle.com/javase/10/docs/api/java/util/Arrays.html)

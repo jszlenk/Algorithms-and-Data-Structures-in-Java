@@ -24,7 +24,7 @@ Algorithms:
   -  **[Insertion Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/InsertionSort)**
   -  **[Shell Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/ShellSort)**
   -  **[Merge Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/MergeSort)**
-  - Quick Sort
+  -  **[Quick Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/QuickSort)**
   - Counting Sort
   - Radix Sort
   - **[Sorting Arrays Using the JDK](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/ArraysSortInJDK)**
