@@ -15,6 +15,12 @@ Understanding the strengths and weaknesses of diverse data structures, lets you 
 Data Structures:
 
 - **[Arrays](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/Arrays/src)**
+- Lists
+    - Array Lists
+    - Vectors
+    - Singly Linked Lists
+    - Doubly Linked Lists
+    - The JDK LinkedList Class
 
 
 Algorithms:
@@ -25,7 +31,7 @@ Algorithms:
   -  **[Shell Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/ShellSort)**
   -  **[Merge Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/MergeSort)**
   -  **[Quick Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/QuickSort)**
-  - Counting Sort
+  -  **[Counting Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/CountingSort)**
   - Radix Sort
   - **[Sorting Arrays Using the JDK](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/ArraysSortInJDK)**
 
