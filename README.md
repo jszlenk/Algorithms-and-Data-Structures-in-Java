@@ -12,7 +12,7 @@ Understanding the strengths and weaknesses of diverse data structures, lets you 
 **[Algorithms and Data Structures for Competitive Programming](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)** <br>
 **[Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/home/)**
 
-Data Structures:
+#### Data Structures
 
 - **[Arrays](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/Arrays/src)**
 - Lists
@@ -23,7 +23,7 @@ Data Structures:
     - The JDK LinkedList Class
 
 
-Algorithms:
+#### Algorithms
 - Sort algorithms
   -  **[Bubble Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/BubbleSort)**
   -  **[Selection Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/SelectionSort)**
