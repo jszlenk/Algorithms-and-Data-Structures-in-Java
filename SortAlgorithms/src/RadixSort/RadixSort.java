@@ -1,6 +1,7 @@
 package RadixSort;
 
 class RadixSort {
+
     static void radixSort(int[] input, int radix, int width) {
         for (int i = 0; i < width; i++) {
             radixSingleSort(input, i, radix);
