@@ -16,7 +16,7 @@ Understanding the strengths and weaknesses of diverse data structures, lets you 
 
 - **[Arrays](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/Arrays/src)**
 - Lists
-    - Array Lists
+    - ArrayLists
     - Vectors
     - Singly Linked Lists
     - Doubly Linked Lists
@@ -32,8 +32,8 @@ Understanding the strengths and weaknesses of diverse data structures, lets you 
   -  **[Merge Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/MergeSort)**
   -  **[Quick Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/QuickSort)**
   -  **[Counting Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/CountingSort)**
-  - Radix Sort
-  - **[Sorting Arrays Using the JDK](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/ArraysSortInJDK)**
+  -  **[Radix Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/RadixSort)**
+  -  **[Sorting Arrays Using the JDK](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/ArraysSortInJDK)**
 
 ---
 
