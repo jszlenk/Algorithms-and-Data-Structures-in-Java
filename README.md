@@ -17,10 +17,11 @@ Understanding the strengths and weaknesses of diverse data structures, lets you 
 - **[Arrays](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/Arrays/src)**
 - Lists
     -  **[ArrayLists](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/Lists/src/ArrayLists)**
-    - Vectors
-    - Singly Linked Lists
-    - Doubly Linked Lists
-    - The JDK LinkedList Class
+    -  **[Vectors](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/Lists/src/Vectors)**
+    - LinkedLists
+      - Singly Linked Lists
+      - Doubly Linked Lists
+      - The JDK LinkedList Class
 
 
 #### Algorithms
