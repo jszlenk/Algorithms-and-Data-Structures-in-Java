@@ -1,4 +1,4 @@
-package LinkedLists.SinglyLinkedLists;
+package LinkedLists.SinglyLinkedList;
 
 public class Employee {
 
