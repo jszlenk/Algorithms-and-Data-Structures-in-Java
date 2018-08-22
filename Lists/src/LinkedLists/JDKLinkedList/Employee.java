@@ -16,9 +16,7 @@ public class Employee {
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
-
         Employee employee = (Employee) o;
-
         if (id != employee.id) return false;
         if (!firstName.equals(employee.firstName)) return false;
         return lastName.equals(employee.lastName);

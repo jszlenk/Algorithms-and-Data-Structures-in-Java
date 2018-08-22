@@ -6,6 +6,7 @@ import java.util.LinkedList;
 public class Main {
 
     public static void main(String[] args) {
+
         Employee adam = new Employee("Adam", "X", 1);
         Employee kuba = new Employee("Kuba", "Y", 2);
         Employee anna = new Employee("Anna", "Z", 3);
