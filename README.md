@@ -21,7 +21,8 @@ Understanding the strengths and weaknesses of diverse data structures, lets you 
     - LinkedLists
       -  **[Singly Linked Lists](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/Lists/src/LinkedLists/SinglyLinkedList)**
       -  **[Doubly Linked Lists](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/Lists/src/LinkedLists/DoublyLinkedList)**
-      - The JDK LinkedList Class
+      -  **[The JDK LinkedList Class](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/Lists/src/LinkedLists/JDKLinkedList)**
+    - Stacks
 
 
 #### Algorithms
