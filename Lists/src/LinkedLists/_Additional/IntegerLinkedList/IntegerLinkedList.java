@@ -28,15 +28,7 @@ class IntegerLinkedList {
         }
 
         IntegerNode current = head.getNext();
-        System.out.println(current);
-
         IntegerNode previous = head;
-        System.out.println(previous);
-
-        while (current != null && current.getValue() < value) {
-            previous = current;
-            current = current.getNext();
-        }
 
         IntegerNode newNode = new IntegerNode(value);
         newNode.setNext(current);
