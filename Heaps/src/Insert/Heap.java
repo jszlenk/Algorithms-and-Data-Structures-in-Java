@@ -23,7 +23,6 @@ class Heap {
         int newValue = heap[index];
 
         while (index > 0 && newValue > heap[getParent(index)]) {
-
             heap[index] = heap[getParent(index)];
             index = getParent(index);
         }
