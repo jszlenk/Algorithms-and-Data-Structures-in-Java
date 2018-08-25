@@ -1,19 +1,14 @@
-package Stacks.LinkedStack;
+package ArrayStack;
 
 public class Main {
     public static void main(String[] args) {
 
-        LinkedStack stack = new LinkedStack();
+        ArrayStack stack = new ArrayStack(10);
 
-        Employee adam = new Employee("Adam", "X", 1);
-        Employee maja = new Employee("Maja", "Y", 2);
-        Employee kuba = new Employee("Kuba", "Z", 3);
-        Employee olga = new Employee("Olga", "O", 4);
-
-        stack.push(adam);
-        stack.push(maja);
-        stack.push(kuba);
-        stack.push(olga);
+        stack.push(new Employee("Adam", "X", 1));
+        stack.push(new Employee("Kuba", "Y", 2));
+        stack.push(new Employee("Anna", "Z", 3));
+        stack.push(new Employee("Maja", "O", 4));
 
         stack.printStack();
         System.out.println("-----------------------------");

@@ -1,4 +1,4 @@
-package Stacks.Palindrome;
+package Palindrome;
 
 import java.util.LinkedList;
 

@@ -1,4 +1,4 @@
-package Stacks.LinkedStack;
+package ArrayStack;
 
 public class Employee {
 
