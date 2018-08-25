@@ -46,5 +46,7 @@ Understanding the strengths and weaknesses of diverse data structures, lets you 
 ---
   
 - Search algorithms
+  -  **[LinearSearchAlgorithm](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SearchAlgorithms/src/LinearSearchAlgorithm)**
+  -  **[BinarySearchAlgorithm](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SearchAlgorithms/src/BinarySearchAlgorithm)**
 
 
