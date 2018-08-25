@@ -4,12 +4,7 @@ import java.util.List;
 import java.util.Vector;
 
 public class Main {
-
     public static void main(String[] args) {
-
-
-        //Vectors are synchronized. Any method that touches the Vector's contents is thread safe.
-        //ArrayList , on the other hand, is unsynchronized.
 
         List<Employee> employeeList = new Vector<>();
         employeeList.add(new Employee("Adam", "X", 1));
