@@ -25,6 +25,11 @@ Understanding the strengths and weaknesses of diverse data structures, lets you 
 - Stacks
     -  **[ArrayStack](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/Stacks/src/ArrayStack)**
     -  **[LinkedStack](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/Stacks/src/LinkedStack)**
+- Heaps
+    -  **[Insert](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/Heaps/src/Insert)**
+    -  Delete
+
+
 
 #### Algorithms
 - Sort algorithms
