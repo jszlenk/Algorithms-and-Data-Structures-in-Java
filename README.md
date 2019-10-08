@@ -42,6 +42,8 @@ Understanding the strengths and weaknesses of diverse data structures, lets you 
   -  **[Counting Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/CountingSort)**
   -  **[Radix Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/RadixSort)**
   -  **[Sorting Arrays Using the JDK](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/ArraysSortInJDK)**
+- Parallel algorithms
+  -  **[Parallel Merge Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/ParallelAlgorithms/src/MergeSort)**
 
 ---
 
