@@ -42,8 +42,6 @@ Understanding the strengths and weaknesses of diverse data structures, lets you 
   -  **[Counting Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/CountingSort)**
   -  **[Radix Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/RadixSort)**
   -  **[Sorting Arrays Using the JDK](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SortAlgorithms/src/ArraysSortInJDK)**
-- Parallel algorithms
-  -  **[Parallel Merge Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/ParallelAlgorithms/src/MergeSort)**
 
 ---
 
@@ -56,4 +54,9 @@ Understanding the strengths and weaknesses of diverse data structures, lets you 
   -  **[LinearSearchAlgorithm](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SearchAlgorithms/src/LinearSearchAlgorithm)**
   -  **[BinarySearchAlgorithm](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/SearchAlgorithms/src/BinarySearchAlgorithm)**
 
+---
+
+- Parallel algorithms
+  -  **[Parallel Merge Sort](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/ParallelAlgorithms/src/MergeSort)**
+  -  **[Parallel Sum](https://github.com/jszlenk/Algorithms-and-Data-Structures-in-Java/tree/master/ParallelAlgorithms/src/Sum)**
 
