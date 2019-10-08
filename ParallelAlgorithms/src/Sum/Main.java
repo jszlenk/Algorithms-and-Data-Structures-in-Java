@@ -4,26 +4,26 @@ import java.util.Random;
 
 public class Main {
 
-	public static void main(String[] args) {
-		
-		Random random = new Random();
-		int numOfProcessors = Runtime.getRuntime().availableProcessors();
+    public static void main(String[] args) {
 
-		SequentialSum sequentialSum = new SequentialSum();
-		ParallelSum parallelSum = new ParallelSum(numOfProcessors);
+        Random random = new Random();
+        int numOfProcessors = Runtime.getRuntime().availableProcessors();
 
-	    int[] nums = new int[3];
+        SequentialSum sequentialSum = new SequentialSum();
+        ParallelSum parallelSum = new ParallelSum(numOfProcessors);
 
-	    for (int i = 0; i < nums.length; i++) {
-	        nums[i] = random.nextInt(101) + 1;
-	    }
+        int[] nums = new int[3];
 
-	    long start = System.currentTimeMillis();
-	    System.out.println("Sum is: " + sequentialSum.sum(nums));
-	    System.out.println("Single: " + (System.currentTimeMillis() - start) + "ms");
+        for (int i = 0; i < nums.length; i++) {
+            nums[i] = random.nextInt(101) + 1;
+        }
 
-	    start = System.currentTimeMillis();
-	    System.out.println("Sum is: " +parallelSum.parallelSum(nums));
-	    System.out.println("Parallel: " + (System.currentTimeMillis() - start) + "ms");
-	}
+        long start = System.currentTimeMillis();
+        System.out.println("Sum is: " + sequentialSum.sum(nums));
+        System.out.println("Single: " + (System.currentTimeMillis() - start) + "ms");
+
+        start = System.currentTimeMillis();
+        System.out.println("Sum is: " + parallelSum.parallelSum(nums));
+        System.out.println("Parallel: " + (System.currentTimeMillis() - start) + "ms");
+    }
 }

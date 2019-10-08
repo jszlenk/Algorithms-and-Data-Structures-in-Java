@@ -2,14 +2,14 @@ package Sum;
 
 class SequentialSum {
 
-	int sum(int[] nums) {
-		
-		int total = 0;
+    int sum(int[] nums) {
 
-		for (int num : nums) {
-			total += num;
-		}
+        int total = 0;
 
-		return total;
-	}
+        for (int num : nums) {
+            total += num;
+        }
+
+        return total;
+    }
 }
